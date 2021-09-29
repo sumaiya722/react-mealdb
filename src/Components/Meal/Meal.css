@@ -1,0 +1,18 @@
+.meal{
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 15px;
+}
+.meal img{
+    width: 200px;
+}
+.my-btn{
+    text-decoration: none;
+    /* background-image: linear-gradient(((tomato,orange))); */
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+}

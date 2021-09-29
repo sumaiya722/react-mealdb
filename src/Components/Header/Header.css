@@ -1,0 +1,16 @@
+.my-input{
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 30%;
+    text-align: center;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: hotpink;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
